@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Durasol/static/css/main.ff41e3ed.chunk.css",
+    "main.js": "/Durasol/static/js/main.c5aef41b.chunk.js",
+    "main.js.map": "/Durasol/static/js/main.c5aef41b.chunk.js.map",
+    "runtime-main.js": "/Durasol/static/js/runtime-main.52a6c706.js",
+    "runtime-main.js.map": "/Durasol/static/js/runtime-main.52a6c706.js.map",
+    "static/js/2.a14c9bef.chunk.js": "/Durasol/static/js/2.a14c9bef.chunk.js",
+    "static/js/2.a14c9bef.chunk.js.map": "/Durasol/static/js/2.a14c9bef.chunk.js.map",
+    "static/js/3.5cb7200c.chunk.js": "/Durasol/static/js/3.5cb7200c.chunk.js",
+    "static/js/3.5cb7200c.chunk.js.map": "/Durasol/static/js/3.5cb7200c.chunk.js.map",
+    "index.html": "/Durasol/index.html",
+    "static/css/main.ff41e3ed.chunk.css.map": "/Durasol/static/css/main.ff41e3ed.chunk.css.map",
+    "static/js/2.a14c9bef.chunk.js.LICENSE.txt": "/Durasol/static/js/2.a14c9bef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52a6c706.js",
+    "static/js/2.a14c9bef.chunk.js",
+    "static/css/main.ff41e3ed.chunk.css",
+    "static/js/main.c5aef41b.chunk.js"
+  ]
+}
