@@ -26,7 +26,7 @@ export default function Footer() {
 				align={{ base: 'center', md: 'center' }}
 			>
 				<Logo />
-				<Text>© 2020 Chakra Templates. All rights reserved</Text>
+				<Text>© 2021 Vraj Shah. All rights reserved</Text>
 				<Stack direction={'row'} spacing={6}>
 					<SocialButton label={'Twitter'} href={'#'}>
 						<FaTwitter />

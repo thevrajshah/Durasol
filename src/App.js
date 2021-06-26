@@ -2,6 +2,8 @@ import { ChakraProvider, extendTheme } from '@chakra-ui/react';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Features from './components/Features';
+import Statistics from './components/Statistics';
+import Card from './components/Card';
 import Footer from './components/Footer';
 
 const colors = {
@@ -25,6 +27,9 @@ function App({ Component }) {
 				<Header />
 				<Hero />
 				<Features />
+				<Card />
+
+				<Statistics />
 				<Footer />
 			</>
 		</ChakraProvider>

@@ -99,10 +99,10 @@ export default function Header() {
 						fontSize={'sm'}
 						fontWeight={600}
 						color={'white'}
-						bg={'red.400'}
+						bg={'blue.400'}
 						href={'#'}
 						_hover={{
-							bg: 'blue.300',
+							bg: 'blue.500',
 						}}
 					>
 						Sign Up
